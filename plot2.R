@@ -1,5 +1,5 @@
 plot2 <- function(fn = "plot2.png") 
-  #this function is to generate the histogram of "Global active power" on 1/2/2007 and 2/2/2007
+  #this function is to generate the curve of "Global active power" along with the time on 1/2/2007 and 2/2/2007
   #input: the file name of the image (with .png extension)
   #output: the image.
 {
